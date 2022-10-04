@@ -6,3 +6,7 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [CSS-Tricks](https://css-tricks.com/)
 - [React Documentation](https://reactjs.org/)
 - [Redux Documentation](https://redux.js.org/)
+- [DEV Community](https://dev.to/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Codecademy Workspaces](https://www.codecademy.com/workspaces/new)
+- 
