@@ -1,6 +1,10 @@
 # Front-End-Engineer
 Path to be software developer 
 # Code and Programing
+- programming is giving a set of instructions to a computer to execute.
+- Programming is the mental process of thinking up instructions to give to a machine (like a computer).
+- Coding is the process of transforming those ideas into a written language that a computer can understand.
+Computers interpret instructions in a very literal manner, so we have to be very specific in how we program them. Think about instructing someone to walk. If you start by telling them, “Put your foot in front of yourself,” do they know what a foot is? Or what front means? (and now we understand why it’s taken so long to develop bipedal robots…). In coding, that could mean making sure that small things like punctuation and spelling are correct. Many tears have been shed over a missing semicolon (;) a symbol that a lot of programming languages use to denote the end of a line.
 
 # What is Front-End?
 Front-End is the part of the website that user or customer interacts.
