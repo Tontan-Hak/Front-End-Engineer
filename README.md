@@ -9,7 +9,7 @@ Computers interpret instructions in a very literal manner, so we have to be very
 
 # What is Front-End?
 Front-End is the part of the website that user or customer interacts.
-
+* [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
 # More resources
 As you go through the path, we’ll suggest certain resources for you to use, like articles, videos, tutorials, and documentation. Here are some additional resources that are considered groundbreaking, significant, or classics in the industry and will help you throughout your Path:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
