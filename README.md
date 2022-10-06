@@ -1,5 +1,8 @@
 # Front-End-Engineer
 Path to be software developer 
+# Code and Programing
+
+# What is Front-End?
 
 As you go through the path, we’ll suggest certain resources for you to use, like articles, videos, tutorials, and documentation. Here are some additional resources that are considered groundbreaking, significant, or classics in the industry and will help you throughout your Path:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
