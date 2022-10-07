@@ -1,4 +1,6 @@
 # Front-End-Engineer
+    Staying consistent and beating procrastination
+    
 Path to be software developer 
 # Code and Programing
 - programming is giving a set of instructions to a computer to execute.
