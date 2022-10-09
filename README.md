@@ -26,3 +26,6 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [HTML and CSS Design and Build Websites ](https://drive.google.com/file/d/1jRFig_MySCVb3xhkmysmMsc-epdBZ1mU/view?usp=sharing)
 - [Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions (Gayle Laakmann McDowell)](https://drive.google.com/file/d/1xYnlheBDDNLIYDqR18wHvFboMsqe2Rqz/view?usp=sharing)
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
+
+# Read more
+* [Paul Graham](http://paulgraham.com/)
