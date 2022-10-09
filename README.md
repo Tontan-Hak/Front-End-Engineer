@@ -29,3 +29,6 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 
 # Read more
 * [Paul Graham](http://paulgraham.com/)
+* [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+
+
