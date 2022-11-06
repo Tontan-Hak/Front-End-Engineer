@@ -29,7 +29,6 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 
 ## License   
-This repo falls under the MIT license.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
