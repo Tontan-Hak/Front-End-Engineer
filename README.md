@@ -28,4 +28,16 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 
+## License   
+This repo falls under the MIT license.
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<a href="https://github.com/Tontan-Hak/Learn_code/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learn_code" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learn_code" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Learn_code" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Learn_code" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Learn_code?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Learn_code/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Learn_code?color=2b9348" alt="License Badge"/></a>
+
+--- 
