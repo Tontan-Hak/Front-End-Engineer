@@ -30,9 +30,8 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 
-## License   
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <a href="https://github.com/Tontan-Hak/Learn_code/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learn_code" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Learn_code/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learn_code" alt="Forks Badge"/></a>
