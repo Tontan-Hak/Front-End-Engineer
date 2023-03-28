@@ -17,6 +17,7 @@ Front-End is the part of the website that user or customer interacts.
 # More resources
 As you go through the path, we’ll suggest certain resources for you to use, like articles, videos, tutorials, and documentation. Here are some additional resources that are considered groundbreaking, significant, or classics in the industry and will help you throughout your Path:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [HTML Standard](https://html.spec.whatwg.org/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [React Documentation](https://reactjs.org/)
 - [Redux Documentation](https://redux.js.org/)
@@ -29,10 +30,12 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions (Gayle Laakmann McDowell)](https://drive.google.com/file/d/1xYnlheBDDNLIYDqR18wHvFboMsqe2Rqz/view?usp=sharing)
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
-
-## License   
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Course 
+  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+  - [ ] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <a href="https://github.com/Tontan-Hak/Learn_code/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Learn_code" alt="Stars Badge"/></a>
 <a href="https://github.com/Tontan-Hak/Learn_code/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Learn_code" alt="Forks Badge"/></a>
