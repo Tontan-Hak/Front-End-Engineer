@@ -1,9 +1,8 @@
-# Front-End-Engineer
+# Front-End-Engineer (Path to be software developer )
 ![](https://komarev.com/ghpvc/?username=Front-End-Engineer&color=brightgreen&label=VISITORS)
 
     Staying consistent and beating procrastination
     
-Path to be software developer 
 # Code and Programing
 
 - programming is giving a set of instructions to a computer to execute.
