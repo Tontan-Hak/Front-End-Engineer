@@ -3,7 +3,7 @@
 
     Staying consistent and beating procrastination
     
-# Code and Programing
+# Introduction 
 
 - programming is giving a set of instructions to a computer to execute.
 - Programming is the mental process of thinking up instructions to give to a machine (like a computer).
