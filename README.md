@@ -24,7 +24,6 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [DEV Community](https://dev.to/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Codecademy Workspaces](https://www.codecademy.com/workspaces/new)
-
 # Book 
 - [HTML and CSS Design and Build Websites ](https://drive.google.com/file/d/1jRFig_MySCVb3xhkmysmMsc-epdBZ1mU/view?usp=sharing)
 - [Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions (Gayle Laakmann McDowell)](https://drive.google.com/file/d/1xYnlheBDDNLIYDqR18wHvFboMsqe2Rqz/view?usp=sharing)
