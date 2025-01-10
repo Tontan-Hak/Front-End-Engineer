@@ -30,9 +30,10 @@ As you go through the path, we’ll suggest certain resources for you to use, li
 - [JavaScript and JQuery Interactive Front-End Web Development (Jon Duckett)](https://drive.google.com/file/d/1e4oTsyOjDJIXWjOLj3au_hq3NzS7c6Uf/view?usp=sharing)
 ## Course 
   - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
-  - [ ] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  - [ ] [The Web Developer Bootcamp 2025](https://www.udemy.com/course/the-web-developer-bootcamp/)
   - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 
 ## Road map
 - [Developer Roadmaps](https://roadmap.sh/)
 --- 
+
